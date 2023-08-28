@@ -8,6 +8,7 @@ include "main.h"
  *
  * @s: with the constant byte @b
  *
+ * Owned by Aransiola Daniel Adebayo
  * @b: memory area pointer
  *
  * Return: a pointer to the memory area @s
